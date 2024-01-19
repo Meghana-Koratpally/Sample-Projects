@@ -1,1 +1,1 @@
-# Sample-Projects
+# Sample-Projects - Tic Tac Toe game
